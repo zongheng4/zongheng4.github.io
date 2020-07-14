@@ -1,0 +1,29 @@
+< ! doctype html>
+<超文本标记语言 朗= "应用”>
+<头>
+	<元 字符集= "utf - 8”>
+	<元 的名字= "视窗”内容= "宽度=设备宽度”>
+	<元 的名字= "描述”内容= "YMUYIBlog |牧易博客,沉迷动漫和WEB前端,喜欢吉他和绘画的90后少年。不忘初心,方得始终!" / >
+	<元 的名字= "关键字”内容= "YMUYI,牧易博客、web前端,动漫" / >
+	<标题>YMUYI——不忘初心,方得始终</标题>
+	<元 的名字= "作者”内容= "ymuyi.com”>
+	<元 http-equiv= "X-UA-Compatible”内容= "IE =边缘”>
+	<链接 href= "图片/ favicon.ico”rel= "快捷方式图标”类型= "图像/ x图标”媒体= "屏幕" / >
+	<链接 href= "css / style.css”rel= "样式表" / >
+</头>
+<身体>
+<div id= "容器”>
+    <div id= "头”>
+	<h1>YMUYI<p>不忘初心,方得始终</p></h1>
+        <一个 href= "http://blog.ymuyi.com/”目标= "平等自愿”>博才能客| Blog&nbsp;,</一个>
+	<一个 href= "http://blog.ymuyi.com/about/”目标= "平等自愿”>关于|关于</一个>
+    </div>
+    <视频 id= "bgvideo”播放= "真正的”宽度= "100%”的名字= "媒体”海报= "/ 123. jpg图像”>< !——将这里的预览图更换为你自己的- - >
+	<源 src= "媒体/ 123. mp4”类型= "视频/ mp4”>< !——将这里的视频地址更换为你自己的- - >
+	<源 src= "媒体/ 123. ogv”类型= "视频/ ogg”>
+	<源 src= "媒体/ 123. webm”类型= "视频/ webm”>
+您的浏览器不支持视频标签。请使用更先进的浏览器,如<一个 href= "http://www.google.cn/chrome/browser/”目标= "平等自愿”>Chrome浏览器</一个>或<一个 href= "http://www.firefox.com.cn/download/”目标= "平等自愿”>Firefox浏览器</一个>
+    </视频>
+</div>
+</身体>
+</超文本标记语言>
